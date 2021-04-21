@@ -6,8 +6,7 @@ This repository is meant to help participants to build up a virtual enviroment f
 ## Installation 
 For installation of anaconda, you can follow the following command lines. 
 
-First install ‘conda’. For this 
-[Installing conda-build] (https://docs.conda.io/projects/conda-build/en/latest/install-conda-build.html)
+First install ‘conda’. For this, Please visit this link; (https://docs.conda.io/projects/conda-build/en/latest/install-conda-build.html)
 
  To install conda-build, in your terminal window or an Anaconda Prompt, run:
  
