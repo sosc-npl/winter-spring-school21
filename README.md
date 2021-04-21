@@ -40,7 +40,7 @@ $ conda env list
 
 It should show the name of the new environment, wss21, in the list.
  
-## Testing the conda environment
+## Check conda environment
 
 We highly recommend that please test the new environment via jupyter notebook in your browser. 
 
