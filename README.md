@@ -1,6 +1,6 @@
 # winter-spring-school21
 [Winter-Spring School 21](http://soscnepal.info/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sosc-npl/winter-spring-school21/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fsosc-npl%2Fwinter-spring-school21)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sosc-npl/winter-spring-school21/HEAD)
 
 This repository is meant to help participants to build up a virtual enviroment for working hands-on sessions of this school.
 
